@@ -1,6 +1,27 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="AXN.ES" tvg-name="AXN" tvg-logo="https://i.ibb.co/LZ7hGxd/axn.png" group-title="AGATV" ,E | AXN
 http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10549
 #EXTINF:-1 tvg-id="AXN.ES" tvg-name="AXN" tvg-logo="https://i.ibb.co/LZ7hGxd/axn.png" group-title="AGATV"n,E | AXN HQ
 http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10550
+
+#EXTINF:-1,P | Golden. HQ
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/154110
+#EXTINF:-1,P | HBO +
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10879
+#EXTINF:-1,P | HBO 2
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10884
+#EXTINF:-1,P | HBO Family
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10877
+#EXTINF:-1,P | HBO Mundi
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10863
+#EXTINF:-1,P | HBO Mundi HQ
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/155167
+#EXTINF:-1,P | HBO POP
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/41421
+#EXTINF:-1,P | HBO Signature
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10881
+#EXTINF:-1,P | HBO Xtreme
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/197618
+#EXTINF:-1,P | HBO.
